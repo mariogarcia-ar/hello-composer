@@ -7,7 +7,7 @@ class Api
 {
     public static function call($url='https://www.google.com')
     {
-        $cUrl = new cURL;
+        $cUrl = new \anlutro\cURL\cURL;
         return $cUrl->get($url);
     }
 }
