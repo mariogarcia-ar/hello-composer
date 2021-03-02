@@ -1,6 +1,6 @@
 <?php 
 
-namespace mariogacia_ar\HelloWorld;
+namespace mariogarcia_ar\HelloWorld;
 
 class Index
 {
