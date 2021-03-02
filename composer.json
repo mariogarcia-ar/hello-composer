@@ -1,5 +1,5 @@
 {
-    "name": "mariogarcia_ar/hello-composer",
+    "name": "mariogarcia-ar/hello-composer",
     "description": "A simple hello world composer package",
     "type": "library",
     "license": "MIT",
