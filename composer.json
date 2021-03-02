@@ -10,7 +10,7 @@
         }
     ],
     "autoload": {
-        "psr-4": {"mariogacia_ar\\HelloWorld\\": "src/"}
+        "psr-4": {"mariogarcia_ar\\HelloWorld\\": "src/"}
     },    
     "minimum-stability": "stable",
     "require": {}
