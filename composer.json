@@ -1,0 +1,17 @@
+{
+    "name": "mariogarcia-ar/hello-composer",
+    "description": "A simple hello world composer package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mario Garcia",
+            "email": "mariogarcia.ar@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"mariogacia_ar\\HelloWorld\\": "src/"}
+    },    
+    "minimum-stability": "stable",
+    "require": {}
+}
